@@ -186,6 +186,48 @@ html {
     border-radius: 43px;
 }
 
+.footer {
+    background-color: #000;
+    /* height: 250px; */
+}
+
+.footer-nav {
+    list-style: none;
+    font-size: 12px;
+    padding: 0;
+    padding-top: 5px;
+    margin: 0;
+    padding-right: 5px;
+}
+
+.footer-right {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-nav-link:hover {
+    color: #E0B509;
+    font-weight: bold;
+}
+
+.footer-picture1 {
+    max-height: 106px
+}
+
+.footer-picture2 {
+    max-height: 69px
+}
+
+.footer-icon-picture {
+    width: 18px;
+}
+
 @media(min-width:768px) {
     .logo {
         width: 358px;
@@ -297,6 +339,47 @@ html {
     .round {
         border-radius: 43px;
     }
+    .footer {
+        background-color: #000;
+        /* height: 250px; */
+        display: flex;
+    }
+    .footer-center {}
+    .footer-list {
+        margin-top: 60px;
+    }
+    .footer-nav {
+        list-style: none;
+        font-size: 20px;
+        padding: 0;
+        padding-top: 5px;
+        margin: 0;
+        padding-right: 5px;
+        display: flex;
+    }
+    .footer-right {
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-nav-link {
+        text-decoration: none;
+        color: white;
+        padding-right: 15px;
+    }
+    .footer-nav-link:hover {
+        color: #E0B509;
+        font-weight: bold;
+    }
+    .footer-picture1 {
+        max-height: 140px
+    }
+    .footer-picture2 {
+        max-height: 93px
+    }
+    .footer-icon-picture {
+        width: 25px;
+    }
 }
 
 @media (min-width:1280px) {
@@ -394,5 +477,46 @@ html {
     }
     .round {
         border-radius: 43px;
+    }
+    .footer {
+        background-color: #000;
+        /* height: 250px; */
+        display: flex;
+    }
+    .footer-center {}
+    .footer-list {
+        margin-top: 75px;
+    }
+    .footer-nav {
+        list-style: none;
+        font-size: 32px;
+        padding: 0;
+        padding-top: 5px;
+        margin: 0;
+        padding-right: 15px;
+        display: flex;
+    }
+    .footer-right {
+        justify-content: space-between;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer-nav-link {
+        text-decoration: none;
+        color: white;
+        padding-right: 15px;
+    }
+    .footer-nav-link:hover {
+        color: #E0B509;
+        font-weight: bold;
+    }
+    .footer-picture1 {
+        max-height: 220px
+    }
+    .footer-picture2 {
+        max-height: 140px
+    }
+    .footer-icon-picture {
+        width: 38px;
     }
 }
