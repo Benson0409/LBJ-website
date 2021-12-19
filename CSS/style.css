@@ -305,6 +305,18 @@ html {
     font-size: 28px;
 }
 
+.black1 {
+    height: 60px;
+}
+
+.season-btn {
+    padding-bottom: 10px;
+}
+
+.season-btn-link {
+    font-size: 10px;
+}
+
 
 /* #endregion 首頁 */
 
@@ -542,6 +554,12 @@ html {
     .score-score-effect {
         font-family: 'Stardos Stencil', 'cursive';
         font-size: 28px;
+    }
+    .season-btn {
+        padding-bottom: 10px;
+    }
+    .season-btn-link {
+        font-size: 18px;
     }
     /* #endregion */
 }
@@ -851,6 +869,12 @@ html {
     .score-score-effect {
         font-family: 'Stardos Stencil', 'cursive';
         font-size: 38px;
+    }
+    .season-btn {
+        padding-bottom: 10px;
+    }
+    .season-btn-link {
+        font-size: 30px;
     }
     /* #endregion 賽季 */
 }
