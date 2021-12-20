@@ -438,13 +438,30 @@ html {
     padding-top: 5px;
 }
 
-.black3 {
+.black2 {
     background-color: #000;
     height: 30px;
 }
 
 
 /* #endregion 首頁 */
+
+.black3 {
+    background-color: #000;
+    width: 100%;
+}
+
+.story-name {
+    color: #FFF;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.story-story {
+    color: #E0B509;
+    font-size: 22px;
+    font-weight: bold;
+}
 
 @media(min-width:576px) {
     .season-article1 {
