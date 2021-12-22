@@ -491,34 +491,34 @@ html {
 
 #about {
     top: 20px;
-    background-color: #04AA6D;
+    background-color: #fdad62;
 }
 
 #blog {
     top: 80px;
-    background-color: #2196F3;
+    background-color: #ff9844;
     /* Blue */
 }
 
 #projects {
     top: 140px;
-    background-color: #f44336;
+    background-color: #ffc251;
     /* Red */
 }
 
 #contact {
     top: 200px;
-    background-color: #555/* Light Black */
+    background-color: #f1a310/* Light Black */
 }
 
 #a {
     top: 260px;
-    background-color: rgb(77, 119, 81);
+    background-color: #af604c;
 }
 
 #b {
     top: 320px;
-    background-color: rgb(160, 106, 106);
+    background-color: #db5151;
 }
 
 
