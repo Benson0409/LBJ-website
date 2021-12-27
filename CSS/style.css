@@ -1015,6 +1015,7 @@ html {
     .introduction-picture1 {
         border-radius: 30px;
         padding: 5px;
+        margin-right: 3px;
     }
     .introduction-main {
         display: flex;
@@ -1271,6 +1272,7 @@ html {
     .introduction-picture1 {
         border-radius: 30px;
         padding: 5px;
+        margin-right: 5px;
     }
     .introduction-main {
         display: flex;
@@ -1765,6 +1767,7 @@ html {
         border-radius: 30px;
         padding: 5px;
         max-height: 570px;
+        margin-right: 6px;
     }
     .introduction-main {
         display: flex;
