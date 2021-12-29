@@ -254,10 +254,6 @@ html {
     max-height: 69px
 }
 
-.footer-icon-picture {
-    width: 18px;
-}
-
 
 /* #endregion 首頁 */
 
@@ -266,6 +262,18 @@ html {
 
 .introduction {
     background-color: #000;
+}
+
+.introduction-left {
+    padding-left: 5PX;
+}
+
+.adjust {
+    padding-left: 5px;
+}
+
+.adjust1 {
+    padding-right: 50px;
 }
 
 .introduction-picture1 {
@@ -687,9 +695,6 @@ html {
     .footer-picture2 {
         max-height: 85px
     }
-    .footer-icon-picture {
-        width: 23px;
-    }
     .season-article1 {
         /* display: flex; */
         background-image: url(../images/black-picture5.jpg);
@@ -997,9 +1002,6 @@ html {
     }
     .footer-picture2 {
         max-height: 93px
-    }
-    .footer-icon-picture {
-        width: 25px;
     }
     /* #endregion 首頁 */
     /* #region 賽季 */
@@ -1748,9 +1750,6 @@ html {
     }
     .footer-picture2 {
         max-height: 140px
-    }
-    .footer-icon-picture {
-        width: 38px;
     }
     /* #endregion 首頁 */
     /* #region 賽季 */
