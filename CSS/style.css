@@ -6,7 +6,7 @@ html {
 }
 
 .hover {
-    color: #E0B509;
+    color: #E0B509 !important;
     padding: 0;
     font-size: 24px;
 }
@@ -253,11 +253,11 @@ html {
 }
 
 .footer-picture1 {
-    max-height: 106px
+    max-height: 97px
 }
 
 .footer-picture2 {
-    max-height: 69px
+    max-height: 79px
 }
 
 
@@ -278,9 +278,10 @@ html {
     padding-left: 5px;
 }
 
-.adjust1 {
+
+/* .adjust1 {
     padding-right: 50px;
-}
+} */
 
 .introduction-picture1 {
     width: 100%;
